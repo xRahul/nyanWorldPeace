@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Nyan World Peace",
+    "icon": "./app/data/images/icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "25.0.0",
+    "slug": "nyan-world-peace",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "privacy": "unlisted",
+    "splash": {
+      "backgroundColor": "#f6bd94",
+      "image": "./app/data/images/icon.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nyan.worldpeace"
+    },
+    "android": {
+      "icon": "./app/data/images/icon.png",
+      "package": "com.nyan.worldpeace"
+    }
+  }
+}

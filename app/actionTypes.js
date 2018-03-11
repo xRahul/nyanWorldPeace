@@ -1,0 +1,1 @@
+export const EXPO_FONTS_LOADED = 'EXPO_FONTS_LOADED'
