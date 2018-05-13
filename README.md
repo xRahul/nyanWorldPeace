@@ -8,7 +8,6 @@
 [![Codeclimate Maintainability](https://api.codeclimate.com/v1/badges/52e21b18beba932b5b25/maintainability)](https://codeclimate.com/github/xRahul/nyanWorldPeace/maintainability)
 [![CodeFactor](https://www.codefactor.io/repository/github/xrahul/nyanworldpeace/badge)](https://www.codefactor.io/repository/github/xrahul/nyanworldpeace)
 [![codebeat badge](https://codebeat.co/badges/754bcc7a-f8bd-434f-a590-6019d747c35d)](https://codebeat.co/projects/github-com-xrahul-nyanworldpeace-master)
-[![security](https://hakiri.io/github/xRahul/nyanWorldPeace/master.svg)](https://hakiri.io/github/xRahul/nyanWorldPeace/master)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
