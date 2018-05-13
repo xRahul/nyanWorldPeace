@@ -3,7 +3,7 @@
     "name": "Nyan World Peace",
     "icon": "./app/data/images/icon.png",
     "version": "1.0.0",
-    "sdkVersion": "25.0.0",
+    "sdkVersion": "27.0.0",
     "slug": "nyan-world-peace",
     "platforms": [
       "ios",
