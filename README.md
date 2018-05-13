@@ -15,4 +15,6 @@ A DeckSwiper implementation to auto swipe between cards holding different images
 This project uses ReactNative, NativeBase and Expo.
 Expo URL: https://expo.io/@xrahul/nyan-world-peace
 
+![QR Code Expo](https://api.qrserver.com/v1/create-qr-code/?size=360x360&data=https://exp.host/@[secure]/nyan-world-peace?release-channel=master)
+
 Images have been removed from the codebase and should be added yourself.
