@@ -6,3 +6,5 @@ This project uses ReactNative, NativeBase and Expo.
 Expo URL: https://expo.io/@xrahul/nyan-world-peace
 
 Images have been removed from the codebase and should be added yourself.
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/xRahul/nyanWorldPeace.svg)](https://greenkeeper.io/)
