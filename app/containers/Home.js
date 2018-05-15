@@ -7,7 +7,7 @@ import { connect } from 'react-redux'
 // import Expo from 'expo'
 import { Image } from 'react-native'
 import {
-  Container, View, DeckSwiper, Card, CardItem
+  Container, View, DeckSwiper, Card
 } from 'native-base'
 // import { fontsLoaded } from '../actions/appStatus'
 
@@ -63,7 +63,7 @@ class Home extends Component {
             looping
             dataSource={cards}
             renderItem={this.renderCard}
-            ref={(c) => this._deckSwiper = c}
+            ref={(c) => { this._deckSwiper = c }}
           />
         </View>
       </Container>
