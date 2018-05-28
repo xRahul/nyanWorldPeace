@@ -2884,9 +2884,9 @@ exit@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/exit/-/exit-0.1.2.tgz#0632638f8d877cc82107d30a0fff1a17cba1cd0c"
 
-exp@54.0.0:
-  version "54.0.0"
-  resolved "https://registry.yarnpkg.com/exp/-/exp-54.0.0.tgz#3b8f7c54c2660d53792d4a3558e6d23ce3155d1f"
+exp@54.0.1:
+  version "54.0.1"
+  resolved "https://registry.yarnpkg.com/exp/-/exp-54.0.1.tgz#f3a03d94b08e837cc313c022103f9b82dbc2fbce"
   dependencies:
     "@babel/code-frame" "^7.0.0-beta.44"
     "@expo/bunyan" "^1.8.10"
