@@ -13,7 +13,7 @@
     "eslint-plugin-standard": "4.0.0",
     "exp": "54.0.1",
     "jest-expo": "27.0.1",
-    "react-test-renderer": "16.3.1"
+    "react-test-renderer": "16.7.0"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
@@ -35,7 +35,7 @@
     "expo": "^31.0.0",
     "expo-font": "^1.0.0",
     "native-base": "^2.6.1",
-    "react": "16.5.0",
+    "react": "16.7.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
     "react-native-scripts": "2.0.1",
     "react-redux": "^5.1.1",
