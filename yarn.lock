@@ -3421,6 +3421,14 @@ expo-constants@~1.1.0:
     expo-constants-interface "~1.1.0"
     expo-core "~1.2.0"
 
+expo-constants@~2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-2.0.0.tgz#8619d163432b4451a4a8cb50b864210deaa7b753"
+  integrity sha512-bHNaq5mUh0kwSW6z40uAy3SAUp9Ua+kNm3/6KaknIOm/tdFKR/PcXnHPEp71jwm5KpKKfhhLk9LXPT27d6r8mA==
+  dependencies:
+    ua-parser-js "^0.7.19"
+    uuid "^3.3.2"
+
 expo-contacts@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/expo-contacts/-/expo-contacts-1.1.0.tgz#2752cd90e67ff6570fb51ddc5504275e02007d89"
@@ -9168,7 +9176,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-ua-parser-js@^0.7.18:
+ua-parser-js@^0.7.18, ua-parser-js@^0.7.19:
   version "0.7.19"
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
   integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
@@ -9345,7 +9353,7 @@ uuid@3.0.1:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.0.1.tgz#6544bba2dfda8c1cf17e629a3a305e2bb1fee6c1"
   integrity sha1-ZUS7ot/ajBzxfmKaOjBeK7H+5sE=
 
-uuid@3.3.2, uuid@^3.0.1, uuid@^3.2.1:
+uuid@3.3.2, uuid@^3.0.1, uuid@^3.2.1, uuid@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
