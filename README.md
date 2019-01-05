@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/xRahul/nyanWorldPeace.svg)](https://github.com/xRahul/nyanWorldPeace/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/xRahul/nyanWorldPeace.svg?branch=master)](https://travis-ci.org/xRahul/nyanWorldPeace)
+[![libraries.io](https://img.shields.io/librariesio/github/xRahul/nyanWorldPeace.svg)](https://libraries.io/github/xRahul/nyanWorldPeace)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3eafd4d6c1c4ec6898266820ac79b80)](https://www.codacy.com/app/xRahul/nyanWorldPeace)
 [![Codeclimate Maintainability](https://api.codeclimate.com/v1/badges/52e21b18beba932b5b25/maintainability)](https://codeclimate.com/github/xRahul/nyanWorldPeace/maintainability)
