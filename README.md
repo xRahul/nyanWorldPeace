@@ -1,4 +1,4 @@
-## nyan World Peace (CRNA test app)
+## nyan World Peace (Deck Swiper)
 
 [![GitHub license](https://img.shields.io/github/license/xRahul/nyanWorldPeace.svg)](https://github.com/xRahul/nyanWorldPeace/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/xRahul/nyanWorldPeace.svg?branch=master)](https://travis-ci.org/xRahul/nyanWorldPeace)
