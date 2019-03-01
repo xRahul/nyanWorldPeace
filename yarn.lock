@@ -3509,6 +3509,13 @@ expo-file-system@~2.0.0:
     expo-file-system-interface "~2.0.0"
     uuid-js "^0.7.5"
 
+expo-file-system@~3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-3.0.1.tgz#d1586b5a86bc3ff662901514ad39f11174774a65"
+  integrity sha512-uWlj7bHnRLe/S89JVTKD5SD1j4Xwu2HcyMxcaQXWZ1F3Bquq3J/stE4nHzvxWhb3c/tNpLBVfZjsJV+HjVtM1g==
+  dependencies:
+    uuid-js "^0.7.5"
+
 expo-font-interface@~2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/expo-font-interface/-/expo-font-interface-2.0.0.tgz#183d033029e41c2f92c1117425d1381dbb0dd452"
