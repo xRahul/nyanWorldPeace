@@ -1,9 +1,22 @@
 language: node_js
 node_js:
-  - "node"
-cache: yarn
-script:
-  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ] || [ "$TRAVIS_BRANCH" == "master" ]; then yarn appr; fi'
-before_install:
+  - node
+  - lts/*
+cache:
+  directories:
+    - ~/.npm
+before_script:
+  - npm install -g npm@latest
+  - npm install -g expo-cli
   - openssl aes-256-cbc -K $encrypted_eb50212da433_key -iv $encrypted_eb50212da433_iv -in imagesForBuild.tar.enc -out imagesForBuild.tar -d
   - tar xvf imagesForBuild.tar
+script:
+  - npm ci
+jobs:
+  include:
+    - stage: deploy
+      node_js: lts/*
+      script:
+        - npm ci
+        - npx expo login -u $EXP_USERNAME -p $EXP_PASSWORD
+        - npx expo publish --non-interactive
