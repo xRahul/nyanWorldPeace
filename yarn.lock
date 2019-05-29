@@ -3669,6 +3669,11 @@ expo-task-manager-interface@~1.0.0:
   dependencies:
     expo-core "~2.0.0"
 
+expo-task-manager-interface@~3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/expo-task-manager-interface/-/expo-task-manager-interface-3.0.0.tgz#e8425f9210e76fe66167a8c39d58eddd87803047"
+  integrity sha512-PQPHNqeyFkfwowi2bcZr1nZ4l6rRiqlegfPLx7Of/8ZjdftYxjxe8Nw7uaNoh2sefH0h/4grPF8NM0tjEfO+ZA==
+
 expo-task-manager@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/expo-task-manager/-/expo-task-manager-1.0.0.tgz#fec44602f35915ab7be082d7709e928e136b2bf8"
@@ -7768,6 +7773,7 @@ react-native-keyboard-aware-scroll-view@0.8.0:
 
 react-native-maps@expo/react-native-maps#v0.22.1-exp.0:
   version "0.22.1"
+  uid e6f98ff7272e5d0a7fe974a41f28593af2d77bb2
   resolved "https://codeload.github.com/expo/react-native-maps/tar.gz/e6f98ff7272e5d0a7fe974a41f28593af2d77bb2"
 
 react-native-reanimated@1.0.0-alpha.11:
