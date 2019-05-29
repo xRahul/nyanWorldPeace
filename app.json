@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "NyanWorldPeace",
+    "name": "Nyan World Peace",
     "icon": "./app/data/images/icon.png",
     "version": "1.1.0",
-    "sdkVersion": "31.0.0",
+    "sdkVersion": "32.0.0",
     "slug": "nyan-world-peace",
     "platforms": [
       "ios",
