@@ -3460,9 +3460,9 @@ expo-constants-interface@~2.0.0:
     expo-core "~2.0.0"
 
 expo-constants@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-2.0.0.tgz#8619d163432b4451a4a8cb50b864210deaa7b753"
-  integrity sha512-bHNaq5mUh0kwSW6z40uAy3SAUp9Ua+kNm3/6KaknIOm/tdFKR/PcXnHPEp71jwm5KpKKfhhLk9LXPT27d6r8mA==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-2.0.1.tgz#f3090e206da7c580c8dbb16178f918a8110644c2"
+  integrity sha512-OIT1afOYYSpDxnnTp5jNXNB2nfnbmykLT+fLaKTu60VdtrO0sr20eB30YwuALU7n/xSYM/xKPsP8jDCzq40YLw==
   dependencies:
     ua-parser-js "^0.7.19"
     uuid "^3.3.2"
@@ -3477,9 +3477,9 @@ expo-contacts@~2.0.0:
     uuid-js "^0.7.5"
 
 expo-core@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/expo-core/-/expo-core-2.0.0.tgz#374e297add4386296b9cdc429ceeaa5797212a24"
-  integrity sha512-mGvAzqJyN/RCIX34dCOnPYu4KqTNaoKGbwjssWUKIlquNeQAuT7q09h3D52xK4eo0zeCV8tg8jipYJEzgzFDHQ==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/expo-core/-/expo-core-2.0.2.tgz#61e1e5cc6c4341a834a0d7f37c68887cee8d971f"
+  integrity sha512-QKkICJ06m/J1PxTJqtVu03+fUXwjLqb2YPF5J9DT7W4EknPq1sHY3ZKJgAr1PhK24fzvVoxWOKqiIstliZdBOA==
 
 expo-errors@~1.0.0:
   version "1.0.0"
@@ -9268,10 +9268,15 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-ua-parser-js@^0.7.18, ua-parser-js@^0.7.19:
+ua-parser-js@^0.7.18:
   version "0.7.19"
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
   integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+
+ua-parser-js@^0.7.19:
+  version "0.7.37"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.37.tgz#e464e66dac2d33a7a1251d7d7a99d6157ec27832"
+  integrity sha512-xV8kqRKM+jhMvcHWUKthV9fNebIzrNy//2O9ZwWcfiBFR5f25XVZPLlEajk/sf3Ra15V92isyQqnIEXRDaZWEA==
 
 ua-parser-js@^0.7.9:
   version "0.7.17"
@@ -9454,7 +9459,7 @@ uuid@3.0.1:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.0.1.tgz#6544bba2dfda8c1cf17e629a3a305e2bb1fee6c1"
   integrity sha1-ZUS7ot/ajBzxfmKaOjBeK7H+5sE=
 
-uuid@3.3.2, uuid@^3.0.1, uuid@^3.2.1, uuid@^3.3.2:
+uuid@3.3.2, uuid@^3.0.1, uuid@^3.2.1:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
@@ -9468,6 +9473,11 @@ uuid@^3.0.0, uuid@^3.1.0:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.2.1.tgz#12c528bb9d58d0b9265d9a2f6f0fe8be17ff1f14"
   integrity sha512-jZnMwlb9Iku/O3smGWvZhauCf6cvvpKi4BKRiliS3cxnI+Gz9j5MEpTz2UFuXiKPJocb7gnsLHwiS05ige5BEA==
+
+uuid@^3.3.2:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
+  integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
 
 validate-npm-package-license@^3.0.1:
   version "3.0.3"
